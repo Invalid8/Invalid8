@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Invalid_33
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learningc++
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me +2347034797467
 
