@@ -13,20 +13,11 @@ I'm a passionate Full-Stack Developer with a keen interest in building scalable 
 - 💬 **Ask Me About:** Next.js, Supabase, React, TypeScript, and frontend development.
 - 📫 **Contact:** b.fadmitan2019@gmail.com
 
-### Projects
-
-1. **NYSC Clearance App** 
-   - **Tech Stack:** Next.js 14, Supabase, React, TypeScript
-   - **Roles:** Student, School, NYSC
-   - **Features:** Student account creation, data updating by schools, certificate verification by NYSC.
-   
-2. **Frontend Developer Role**
-   - **Tech Stack:** React, JavaScript, TypeScript, Tailwind CSS, Jotai, TanStack Query
 
 ### Skills
 
 - **Frontend:** React, JavaScript, TypeScript, Tailwind CSS, Jotai, TanStack Query
-- **Backend:** Next.js, Supabase
+- **Backend:** Next.js, Supabase, Node
 - **Tools:** NVM, Parrot OS, Linux (beginner), GUI-based clipboard manager
 
 ### Fun Facts
