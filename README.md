@@ -14,12 +14,6 @@ I'm a passionate Full-Stack Developer with a keen interest in building scalable 
 - 📫 **Contact:** b.fadmitan2019@gmail.com
 
 
-### Skills
-
-- **Frontend:** React, JavaScript, TypeScript, Tailwind CSS, Jotai, TanStack Query
-- **Backend:** Next.js, Supabase, Node
-- **Tools:** NVM, Parrot OS, Linux (beginner), GUI-based clipboard manager
-
 ### Fun Facts
 
 - 🎮 **Hobbies:** Mobile gaming with quests, combat, skill growth, and offline play capabilities.
