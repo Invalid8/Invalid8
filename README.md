@@ -1,3 +1,8 @@
+## Hi there, I'm Daniel 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/Invalid8?label=Follow&style=social)](https://github.com/Invalid8) 
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-fadamitan-a08052247) 
+
 <div align="center">
   <a href="https://commit-history.com/Invalid8">
     <picture>
@@ -6,11 +11,6 @@
     </picture>
   </a>
 </div>
-
-## Hi there, I'm Daniel 👋
-
-[![GitHub followers](https://img.shields.io/github/followers/Invalid8?label=Follow&style=social)](https://github.com/Invalid8) 
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-fadamitan-a08052247) 
 
 ### I build stuffs
 
