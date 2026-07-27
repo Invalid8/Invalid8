@@ -16,8 +16,7 @@ Mostly tools I wanted to exist. A headless CMS with a sane adapter seam, a TUI f
 | [Fillyr](https://fillyr.app) | Personalize event flyers with your face and name in seconds |
 | [hframe](https://github.com/Invalid8/hframe) | Go + Bubble Tea TUI for managing Android emulators on Linux |
 | [Cosmic Recorder](https://github.com/Invalid8) | Screen recorder built for the COSMIC desktop |
-| [Airsofte](https://github.com/Invalid8) | A game. Because sometimes you just want to build a game |
-| [Finewrite](https://github.com/Invalid8) | Handwritten aesthetic notes app with cloud sync and shareable pages |
+| [Airsofte](https://airsofte.vercel.app) | A game. Because sometimes you just want to build a game |
 | [BulkMailer](https://github.com/Invalid8) | Python bulk mail CLI with MX direct sending and adaptive throttling |
 
 ### Stack
