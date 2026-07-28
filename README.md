@@ -15,7 +15,7 @@ Mostly tools I wanted to exist. A headless CMS with a sane adapter seam, a TUI f
 | [better-content](https://github.com/Invalid8/better-content) | Framework neutral headless CMS, adapter based, MIT. [Docs](https://better-content-docs.vercel.app) |
 | [Fillyr](https://fillyr.app) | Personalize event flyers with your face and name in seconds |
 | [hframe](https://github.com/Invalid8/hframe) | Go + Bubble Tea TUI for managing Android emulators on Linux |
-| [Cosmic Recorder](https://github.com/Invalid8) | Screen recorder built for the COSMIC desktop |
+| [Cosmic Recorder](https://github.com/Invalid8/cosmic-recorder) | Screen recorder built for the COSMIC desktop |
 | [Airsofte](https://airsofte.vercel.app) | A game. Because sometimes you just want to build a game |
 | [BulkMailer](https://github.com/Invalid8) | Python bulk mail CLI with MX direct sending and adaptive throttling |
 
