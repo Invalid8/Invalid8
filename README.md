@@ -37,8 +37,8 @@ Mostly tools I wanted to exist. A headless CMS with a sane adapter seam, a TUI f
 ### Right now
 
 - Iterating on **better-content**, adapters and docs
+- Shipping updates to my personal toolings
 - Building **finewrite** for COSMIC desktop with Tauri
-- Final year CS at Adekunle Ajasin University
 - Open to frontend, full-stack, and product engineering roles
 
 Reach me at b.fadamitan2019@gmail.com
