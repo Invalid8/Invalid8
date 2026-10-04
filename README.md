@@ -16,7 +16,7 @@ A router manager that talks directly to your hardware. A local voice-note transc
 | --- | --- |
 | [Baseband](https://baseband.dalgoridim.com) | Local-first router manager for your phone. No account, server or internet connection in between |
 | [VScrybe](https://vscrybe.dalgoridim.com) | Private, offline voice-note transcription with searchable sessions, timestamps and local Whisper models |
-| Cheerkit | Headless, self-hosted support payments for apps that already have their own UI and payment provider |
+| [Cheerkit](https://github.com/Invalid8/cheerkit) | Headless, self-hosted support payments for apps that already have their own UI and payment provider |
 | Cosmic Editor | Video editor for software demos, with agent and MCP context built into the workflow |
 | [better-content](https://github.com/Invalid8/better-content) | Framework-neutral headless CMS with an adapter-based architecture. [Docs](https://better-content-docs.vercel.app) |
 | [Fillyr](https://fillyr.app) | Turn one flyer template into personalized versions with names and photos |
